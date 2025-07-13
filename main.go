@@ -21,7 +21,4 @@ func main() {
     fmt.Println(nine)
     fmt.Println()
 
-    fmt.Println("hsgfhgsgfhsghf")
-    fmt.Println("hsgfhgsgfhsghf")
-    fmt.Println("hsgfhgsgfhsghf")
 }
