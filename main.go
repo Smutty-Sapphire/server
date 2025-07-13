@@ -13,5 +13,5 @@ func main() {
     http.HandleFunc("/", httpHandler)
     http.ListenAndServe(":8080", nil)
 
-    fmt.Println()
+    fmt.Println("Hello")
 }
