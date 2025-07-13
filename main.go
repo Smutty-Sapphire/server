@@ -17,4 +17,5 @@ func main() {
 
     var nine int = 9
     fmt.Println(nine)
+    fmt.Println()
 }
